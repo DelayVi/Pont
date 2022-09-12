@@ -1,7 +1,8 @@
-package ru.delayvi.pont
+package ru.delayvi.pont.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import ru.delayvi.pont.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
