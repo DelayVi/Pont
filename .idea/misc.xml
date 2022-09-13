@@ -3,7 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/withf/AndroidStudioProjects/Pont/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/withf/AndroidStudioProjects/Pont/app/src/main/res/drawable/alcohol_bottle_background.xml" value="0.2505" />
+        <entry key="..\:/Users/withf/AndroidStudioProjects/Pont/app/src/main/res/drawable/paulaner_background.xml" value="0.2505" />
+        <entry key="..\:/Users/withf/AndroidStudioProjects/Pont/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/withf/AndroidStudioProjects/Pont/app/src/main/res/layout/alcohol_item.xml" value="0.5" />
+        <entry key="..\:/Users/withf/AndroidStudioProjects/Pont/app/src/main/res/layout/archievment_item.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/withf/AndroidStudioProjects/Pont/app/src/main/res/layout/user_fragment.xml" value="0.271875" />
+        <entry key="..\:/Users/withf/AndroidStudioProjects/Pont/app/src/main/res/mipmap-anydpi-v26/alcohol_bottle.xml" value="0.2505" />
+        <entry key="..\:/Users/withf/AndroidStudioProjects/Pont/app/src/main/res/mipmap-anydpi-v26/alcohol_bottle_round.xml" value="0.1935" />
       </map>
     </option>
   </component>
