@@ -52,7 +52,7 @@
             android:layout_marginStart="5dp"
             android:layout_marginTop="120dp"
             android:layout_marginEnd="5dp"
-            android:layout_marginBottom="50dp"
+            android:layout_marginBottom="40dp"
             tools:listitem="@layout/alcohol_item" />
 
         <androidx.cardview.widget.CardView
@@ -76,7 +76,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        app:layout_constraintGuide_percent="0.65" />
+        app:layout_constraintGuide_percent="0.60" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 </layout>
